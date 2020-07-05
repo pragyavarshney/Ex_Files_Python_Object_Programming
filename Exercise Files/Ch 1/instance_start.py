@@ -32,7 +32,7 @@ b2 = Book("The Catcher in the Rye","JD Salinger",300,45 )
 # TODO: print the price of book1
 print(b1.getprice())
 print(b2.getprice())
-b2.setdiscount(0.25)
+b2.setdiscount(0.15)
 print(b2.getprice())
 
 # TODO: properties with double underscores are hidden by the interpreter
