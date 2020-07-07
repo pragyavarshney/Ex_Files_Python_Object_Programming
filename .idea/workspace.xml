@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="29371c83-c088-40a7-a363-c229bb9b3845" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch 2/abstract_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch 2/abstract_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch 2/inheritance_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch 2/inheritance_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch 2/interface_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch 2/interface_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch 2/multiple_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch 2/multiple_start.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +36,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.class_start">
-    <configuration name="class_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.composition_start">
+    <configuration name="abstract_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ex_Files_Python_Object_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,12 +45,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 1/class_start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 2/abstract_start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -55,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="definition_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="composition_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ex_Files_Python_Object_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,12 +67,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 1/definition_start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 2/composition_start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="instance_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inheritance_finished" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ex_Files_Python_Object_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 1/instance_start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 2/inheritance_finished.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="typecheck_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="interface_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ex_Files_Python_Object_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,12 +111,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 1/typecheck_start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 2/interface_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiple_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ex_Files_Python_Object_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch 2/multiple_start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,10 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.class_start" />
-        <item itemvalue="Python.typecheck_start" />
-        <item itemvalue="Python.instance_start" />
-        <item itemvalue="Python.definition_start" />
+        <item itemvalue="Python.composition_start" />
+        <item itemvalue="Python.interface_start" />
+        <item itemvalue="Python.abstract_start" />
+        <item itemvalue="Python.multiple_start" />
+        <item itemvalue="Python.inheritance_finished" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +167,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593813603397</updated>
-      <workItem from="1593813604562" duration="9745000" />
+      <workItem from="1593813604562" duration="9990000" />
+      <workItem from="1594063931665" duration="9307000" />
     </task>
     <task id="LOCAL-00001" summary="added object and instances">
       <created>1593906527704</created>
@@ -163,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593933139553</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added static and class methods">
+      <created>1593933535335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593933535335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,10 +211,10 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="576" y="98" key="CommitChangelistDialog2" timestamp="1593933138969">
+    <state x="576" y="98" key="CommitChangelistDialog2" timestamp="1593933534768">
       <screen x="0" y="0" width="1920" height="1000" />
     </state>
-    <state x="576" y="98" key="CommitChangelistDialog2/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593933138969" />
+    <state x="576" y="98" key="CommitChangelistDialog2/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593933534768" />
     <state x="-3264" y="312" key="Github.ShareDialog" timestamp="1593813652904">
       <screen x="-3840" y="0" width="1536" height="832" />
     </state>
@@ -188,26 +223,38 @@
       <screen x="-3840" y="0" width="1536" height="832" />
     </state>
     <state x="-3355" y="122" key="Github.UntrackedFilesDialog/-3840.0.1536.832/0.0.1920.1000@-3840.0.1536.832" timestamp="1593813748035" />
-    <state width="1112" height="203" key="GridCell.Tab.0.bottom" timestamp="1593932914488">
-      <screen x="0" y="0" width="1920" height="1000" />
+    <state width="1096" height="202" key="GridCell.Tab.0.bottom" timestamp="1594101019443">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="211" key="GridCell.Tab.0.bottom/-3840.0.1536.832/0.0.1920.1000@-3840.0.1536.832" timestamp="1593815359894" />
-    <state width="1112" height="203" key="GridCell.Tab.0.bottom/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593932914488" />
-    <state width="1112" height="203" key="GridCell.Tab.0.center" timestamp="1593932914488">
-      <screen x="0" y="0" width="1920" height="1000" />
+    <state width="1112" height="203" key="GridCell.Tab.0.bottom/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593933761066" />
+    <state width="1096" height="202" key="GridCell.Tab.0.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1594101019443" />
+    <state width="1096" height="202" key="GridCell.Tab.0.center" timestamp="1594101019443">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="211" key="GridCell.Tab.0.center/-3840.0.1536.832/0.0.1920.1000@-3840.0.1536.832" timestamp="1593815359894" />
-    <state width="1112" height="203" key="GridCell.Tab.0.center/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593932914488" />
-    <state width="1112" height="203" key="GridCell.Tab.0.left" timestamp="1593932914488">
-      <screen x="0" y="0" width="1920" height="1000" />
+    <state width="1112" height="203" key="GridCell.Tab.0.center/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593933761065" />
+    <state width="1096" height="202" key="GridCell.Tab.0.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1594101019443" />
+    <state width="1096" height="202" key="GridCell.Tab.0.left" timestamp="1594101019443">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="211" key="GridCell.Tab.0.left/-3840.0.1536.832/0.0.1920.1000@-3840.0.1536.832" timestamp="1593815359894" />
-    <state width="1112" height="203" key="GridCell.Tab.0.left/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593932914488" />
-    <state width="1112" height="203" key="GridCell.Tab.0.right" timestamp="1593932914488">
-      <screen x="0" y="0" width="1920" height="1000" />
+    <state width="1112" height="203" key="GridCell.Tab.0.left/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593933761065" />
+    <state width="1096" height="202" key="GridCell.Tab.0.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1594101019443" />
+    <state width="1096" height="202" key="GridCell.Tab.0.right" timestamp="1594101019443">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="211" key="GridCell.Tab.0.right/-3840.0.1536.832/0.0.1920.1000@-3840.0.1536.832" timestamp="1593815359894" />
-    <state width="1112" height="203" key="GridCell.Tab.0.right/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593932914488" />
+    <state width="1112" height="203" key="GridCell.Tab.0.right/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593933761066" />
+    <state width="1096" height="202" key="GridCell.Tab.0.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1594101019443" />
+    <state x="552" y="236" key="Vcs.Push.Dialog.v2" timestamp="1593933552950">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state x="552" y="236" key="Vcs.Push.Dialog.v2/-3840.0.1536.832/0.0.1920.1000@0.0.1920.1000" timestamp="1593933552950" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1594063931454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1594063931454" />
     <state x="-3409" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1593813640987">
       <screen x="-3840" y="0" width="1536" height="832" />
     </state>
@@ -216,7 +263,13 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$typecheck_start.coverage" NAME="typecheck_start Coverage Results" MODIFIED="1593909955582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 1" />
     <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$definition_start.coverage" NAME="definition_start Coverage Results" MODIFIED="1593815055499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 1" />
+    <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$inheritance_finished.coverage" NAME="inheritance_finished Coverage Results" MODIFIED="1594065210834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 2" />
+    <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$composition_start.coverage" NAME="composition_start Coverage Results" MODIFIED="1594101019417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 2" />
+    <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$multiple_start.coverage" NAME="multiple_start Coverage Results" MODIFIED="1594075437407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 2" />
+    <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$abstract_start.coverage" NAME="abstract_start Coverage Results" MODIFIED="1594077547083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 2" />
     <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$instance_start.coverage" NAME="instance_start Coverage Results" MODIFIED="1593908563579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 1" />
+    <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$interface_start.coverage" NAME="interface_start Coverage Results" MODIFIED="1594078265893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 2" />
     <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$class_start.coverage" NAME="class_start Coverage Results" MODIFIED="1593932845725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 1" />
+    <SUITE FILE_PATH="coverage/Ex_Files_Python_Object_Programming$inheritance_start.coverage" NAME="inheritance_start Coverage Results" MODIFIED="1594065191924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch 2" />
   </component>
 </project>
